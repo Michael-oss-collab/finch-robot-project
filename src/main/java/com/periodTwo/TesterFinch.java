@@ -30,16 +30,16 @@ public static void main(String[] args){
 // bird.setMove("F", 34, 100);
 // bird.setTurn("L", 90, 50);
 //checkpoint 2
-bird.setMove("F", 90, 100);
-bird.setTurn("R", 90, 50);
-bird.setMove("F", 80, 100);
-bird.setTurn("R", 90, 50);
-bird.setMove("F", 80, 100);
-bird.setTurn("R", 90, 50);
+// bird.setMove("F", 93, 100);
+// bird.setTurn("R", 90, 50);
+// bird.setMove("F", 95, 100);
+// bird.setTurn("R", 90, 50);
+// bird.setMove("F", 95, 100);
+// bird.setTurn("R", 90, 50);
 //checkpoint 3
-bird.setMove("F", 60, 100);
+bird.setMove("F", 71, 100);
 bird.setTurn("R", 90, 50);
-bird.setMove("F", 40, 100);
+bird.setMove("F", 71, 100);
 bird.setTurn("R", 90, 50);
 bird.setMove("F", 30, 100);
 bird.setTurn("R", 90, 50);
