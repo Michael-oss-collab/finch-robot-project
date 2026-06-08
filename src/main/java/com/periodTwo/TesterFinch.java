@@ -6,48 +6,48 @@ public static void main(String[] args){
 
     FinalFinch bird = new FinalFinch ("A");
 
-//     bird.setMove( "F", 60, 100 );
-// bird.setTurn("L", 90, 50);
-// bird.setMove("F", 22, 100);
-// bird.setTurn("L", 90, 50);
-// bird.setMove("F", 60, 100);
-// bird.setTurn("R", 90, 50);
-// bird.setMove("F", 25, 100);
-// bird.setTurn("R", 90, 50);
-// bird.setMove("F", 60, 100);
-// bird.setTurn("L", 90, 50);
-// bird.setMove("F", 23, 100);
-// bird.setTurn ("L", 90, 50);
-// bird.setMove("F", 60, 100);
-// bird.setTurn("R", 90, 50);
-// bird.setMove("F", 22, 50);
-// bird.setTurn("R", 90, 50);
-//checkpoint 1
-// bird.setMove("F", 81, 100);
-// bird.setTurn("R", 90, 50);
-// bird.setMove("F", 90, 100);
-// bird.setTurn("L", 90, 50);
-// bird.setMove("F", 34, 100);
-// bird.setTurn("L", 90, 50);
-//checkpoint 2
-// bird.setMove("F", 93, 100);
-// bird.setTurn("R", 90, 50);
-// bird.setMove("F", 95, 100);
-// bird.setTurn("R", 90, 50);
-// bird.setMove("F", 95, 100);
-// bird.setTurn("R", 90, 50);
-//checkpoint 3
+bird.setMove( "F", 60, 100 );
+bird.setTurn("L", 90, 50);
+bird.setMove("F", 22, 100);
+bird.setTurn("L", 90, 50);
+bird.setMove("F", 60, 100);
+bird.setTurn("R", 90, 50);
+bird.setMove("F", 25, 100);
+bird.setTurn("R", 90, 50);
+bird.setMove("F", 60, 100);
+bird.setTurn("L", 90, 50);
+bird.setMove("F", 23, 100);
+bird.setTurn ("L", 90, 50);
+bird.setMove("F", 60, 100);
+bird.setTurn("R", 90, 50);
+bird.setMove("F", 22, 50);
+bird.setTurn("R", 90, 50);
+// //Reached Checkpoint 1
+bird.setMove("F", 81, 100);
+bird.setTurn("R", 90, 50);
+bird.setMove("F", 90, 100);
+bird.setTurn("L", 90, 50);
+bird.setMove("F", 34, 100);
+bird.setTurn("L", 90, 50);
+// //Reached Checkpoint 2
+bird.setMove("F", 93, 100);
+bird.setTurn("R", 90, 50);
+bird.setMove("F", 95, 100);
+bird.setTurn("R", 90, 50);
+bird.setMove("F", 95, 100);
+bird.setTurn("R", 90, 50);
+//Reached Checkpoint 3
 bird.setMove("F", 71, 100);
 bird.setTurn("R", 90, 50);
 bird.setMove("F", 71, 100);
 bird.setTurn("R", 90, 50);
-bird.setMove("F", 30, 100);
+bird.setMove("F", 46, 100);
 bird.setTurn("R", 90, 50);
-bird.setMove("F", 20, 100);
+bird.setMove("F", 33, 100);
 bird.setTurn("R", 90, 50);
 bird.setMove("F", 20, 100);
 bird.setTurn("L", 90, 50);
-//checkpoint 4
+//Reached Checkpoint 4
 
 }
 
